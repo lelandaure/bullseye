@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "1E934966-9611-4AA0-958A-416A407F260D",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Bullseye.xcodeproj",
+      "identifier" : "A71B76AA271E8456004B5B03",
+      "name" : "Bullseye"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Bullseye.xcodeproj",
+        "identifier" : "A776C7C72735050C00E5B537",
+        "name" : "BullseyeTest"
+      }
+    }
+  ],
+  "version" : 1
+}

@@ -7,7 +7,30 @@
 		<key>Bullseye.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A71B76AA271E8456004B5B03</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A71B76BA271E8458004B5B03</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A71B76C4271E8458004B5B03</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A776C7C72735050C00E5B537</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
